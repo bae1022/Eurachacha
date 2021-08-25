@@ -6,9 +6,7 @@
    * 일반 영화관에서는 상영하지 않는 영화를 저렴한 가격으로 영화관에서 보고싶은 사람들을 위한 이벤트성 영화관
    
 * ## 주요 기능 ##
-   * 영화예매![dbp_영화예매사이트_page-0024](https://user-images.githubusercontent.com/81809891/130808063-7b2c2c0b-8afb-48e4-832f-b47019b54365.jpg)
-![dbp_영화예매사이트_page-0025](https://user-images.githubusercontent.com/81809891/130808067-1ebcb550-aaf9-4f43-ad69-a212ddcb5a5a.jpg)
-
+   * 영화예매
    * 영화 정보 관리
    * 잔여석 관리
    * 리뷰 작성
@@ -33,5 +31,6 @@
 ![dbp_영화예매사이트_page-0021](https://user-images.githubusercontent.com/81809891/130808045-3376eb12-2cb8-46d3-a85e-cb8ab978905b.jpg)
 ![dbp_영화예매사이트_page-0022](https://user-images.githubusercontent.com/81809891/130808050-34f6b7b1-33e9-4ad4-8bf3-1b7b15c0d666.jpg)
 ![dbp_영화예매사이트_page-0023](https://user-images.githubusercontent.com/81809891/130808053-da578885-7388-4d60-8159-4fb5a0063a2f.jpg)
-
+![dbp_영화예매사이트_page-0024](https://user-images.githubusercontent.com/81809891/130808063-7b2c2c0b-8afb-48e4-832f-b47019b54365.jpg)
+![dbp_영화예매사이트_page-0025](https://user-images.githubusercontent.com/81809891/130808067-1ebcb550-aaf9-4f43-ad69-a212ddcb5a5a.jpg)
   
